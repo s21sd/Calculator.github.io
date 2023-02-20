@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculate Pro</string>
+    <string name="name">Enter numbers to calculate</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="button">Button</string>
+</resources>
